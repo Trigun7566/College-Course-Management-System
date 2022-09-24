@@ -1,5 +1,5 @@
 # College-Course-Management-System
-College Course Management System created for final project for class CST499 at UAGC
+College Course Management System created for final project of class CST499 at UAGC!
 This system contains the following functionality:
   - Student Registration
   - Student and Teacher Log in
