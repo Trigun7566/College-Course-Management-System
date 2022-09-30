@@ -12,7 +12,7 @@ This system contains the following functionality:
   
 Must Haves:
   - Install Apache and MySQL through XAMPP application in order to run the above PHP code.
-  - Must place downloaded code in htdocs folder in C:/xampp/htdocs to run web application.
+  - Must place downloaded code in htdocs folder in C:/xampp/htdocs to run PHP web application on Windows.
 
 Notes: 
-  - PHP Code Contained inside the provided zip folder, then inside the zip folder there is a folder called PHP_CODE, all PHP code lives in that folder
+  - PHP Code Contained inside the provided zip folder, then inside the zip folder there is a folder called PHP_CODE, all PHP code lives in that folder currently
